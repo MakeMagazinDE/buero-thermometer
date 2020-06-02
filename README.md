@@ -6,7 +6,7 @@ Maker Media GmbH
 
 # Bürothermometer mit Farbwechsel
 
-### Warum denn gleich wegwerfen: Statt im Abfall landen einekleine Plastikkiste und ein Glasröhrchen hier auf dem Schreibtisch.
+### Warum denn gleich wegwerfen: Statt im Abfall landen eine kleine Plastikkiste und ein Glasröhrchen hier auf dem Schreibtisch.
 
 Zusammen mit einem Sensor und einem LED-Streifen lässt sich daraus ein einfaches Thermometer bauen.
 
