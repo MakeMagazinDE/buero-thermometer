@@ -12,7 +12,7 @@
 * Universalgehäuse z.B.  [Velleman WCAH2855 Kunststoff-Box](https://www.amazon.de/Velleman-WCAH2855-Kunststoff-Box/dp/B0056BPREM/)
 * Abstandshalter: 4x
 * Micro-USB bzw. Mini-USB Kabel
-* Kabeltülle für USB Kabel<@$p>
+* Kabeltülle für USB Kabel
 * DHT11-Board 
 * Lötsteckstifte: 1x2er-Leiste, 2x3er-Leiste
 * Steckverbinder: diverse Längen
